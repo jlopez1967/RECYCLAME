@@ -4,6 +4,12 @@
 
 El desarrollo apunta principalmente a involucrar al consumidor particular, y a incentivar y lograr trazabilidad y reciclaje una vez que los productos salen de las tiendas y pasan a manos de millones de pequeños consumidores. Por otra parte, contribuye también a visibilizar, a dimensionar y a caracterizar sistémicamente el plástico de envases antes de su reciclaje: dónde está, cuánto es por tipo de plástico, qué tipos de consumidores lo tienen, y cuánto vale.
 
+Puedes leer mas en estos enlaces
+
+- https://innovacionchilena.cl/statknows-inteligencia-artificial-al-servicio-del-reciclaje/
+- https://clipper.e-clip.cl/clipper/clip/statknows/351099
+
+
 # Registrate y colabora con nosotros
 
 Hemos pasado de tener un prototipo y estamos abriéndonos para que la comunidad colabore con nosotros y estamos haciendo las adecuaciones necesarias. 

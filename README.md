@@ -1,3 +1,11 @@
+# Que es RECYCLAME
+
+“Esta solución está basada en un desarrollo conceptual que veníamos trabajando con Cepal y Euroclima desde hace un tiempo. La idea de construir un sistema que permita la trazabilidad del plástico fue un concepto y un proceso que nos llevó bastante tiempo entender y “bajar” desde una idea abstracta hasta algo concreto, que es lo que tenemos hoy.  El reto fue hacerlo de tal forma que involucrase a todos los actores en la cadena del uso de envases plásticos, desde su producción hasta el consumidor final que lo entrega para reciclaje”, señala José Ruette, cofundador y director de Tecnología de StatKnows.
+
+El desarrollo apunta principalmente a involucrar al consumidor particular, y a incentivar y lograr trazabilidad y reciclaje una vez que los productos salen de las tiendas y pasan a manos de millones de pequeños consumidores. Por otra parte, contribuye también a visibilizar, a dimensionar y a caracterizar sistémicamente el plástico de envases antes de su reciclaje: dónde está, cuánto es por tipo de plástico, qué tipos de consumidores lo tienen, y cuánto vale.
+
+# Registrate y colabora con nosotros
+
 Hemos pasado de tener un prototipo y estamos abriéndonos para que la comunidad colabore con nosotros y estamos haciendo las adecuaciones necesarias. 
 
 Si deseas colaborar con nosotros unete a nuestro discord https://discord.gg/nG3CB85PH4.
@@ -5,7 +13,6 @@ Si deseas colaborar con nosotros unete a nuestro discord https://discord.gg/nG3C
 Para los que desean colaborar con nosotros, regístrense en el discord, por allí nos podemos coordinar
 
 # RECYCLAME
-
 
 
 <img src="reciclameArquitectura.png"></img>

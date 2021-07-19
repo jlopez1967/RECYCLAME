@@ -1,0 +1,22 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "![Build Status](https://gitlab.com/pages/gitbook/badges/master/build.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/recy/documentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/recy/documentation/issues"
+  },
+  "homepage": "https://gitlab.com/recy/documentation#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

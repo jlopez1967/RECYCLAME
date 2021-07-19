@@ -12,7 +12,7 @@ Puedes leer mas en estos enlaces
 
 # Registrate y colabora con nosotros
 
-Hemos pasado de tener un prototipo y estamos abriéndonos para que la comunidad colabore con nosotros y estamos haciendo las adecuaciones necesarias. 
+Hemos pasado de tener un prototipo, estamos abriéndonos para que la comunidad colabore con nosotros, se estan haciendo las adecuaciones necesarias para desarrollar este proyecto en colaboración de la comunidad. 
 
 Si deseas colaborar con nosotros unete a nuestro discord https://discord.gg/nG3CB85PH4.
 

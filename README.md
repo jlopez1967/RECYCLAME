@@ -1,4 +1,12 @@
+Hemos pasado de tener un prototipo y estamos abriéndonos para que la comunidad colabore con nosotros y estamos haciendo las adecuaciones necesarias. 
+
+Si deseas colaborar con nosotros unete a nuestro discord https://discord.gg/nG3CB85PH4.
+
+Para los que desean colaborar con nosotros, regístrense en el discord, por allí nos podemos coordinar
+
 # RECYCLAME
+
+
 
 <img src="reciclameArquitectura.png"></img>
 
